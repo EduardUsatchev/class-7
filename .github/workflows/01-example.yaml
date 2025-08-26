@@ -13,4 +13,4 @@ jobs:
       - name: show files
         run: |
           ls -ltr
-          pythonedu --version
+          python --version
